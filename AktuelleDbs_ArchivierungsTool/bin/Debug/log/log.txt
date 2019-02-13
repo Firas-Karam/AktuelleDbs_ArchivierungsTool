@@ -1,0 +1,31 @@
+[18:19:22.64] [INFO] Assembly version: 11.0.0 build 569 for .NET 4.5.
+[18:19:22.64] [INFO] Will send mail message.
+[18:19:22.67] [INFO] Will resolve host "smtp.local.combera.com".
+[18:19:22.70] [INFO] Host "smtp.local.combera.com" resolved to IP address(es) 192.168.100.10.
+[18:19:22.70] [INFO] Will connect to host "smtp.local.combera.com" on port 25.
+[18:19:22.74] [INFO] Socket connected to IP address 192.168.100.10 on port 25.
+[18:19:22.78] [RECV] 220 DMMAIL01.local.combera.com Microsoft ESMTP MAIL Service ready at Wed, 13 Feb 2019 18:19:22 +0100\r\n
+[18:19:22.79] [INFO] Connected to mail service at host "smtp.local.combera.com" on port 25 and ready.
+[18:19:22.79] [INFO] Will send Hello command (HELO or EHLO).
+[18:19:22.80] [SEND] EHLO [192.168.199.116]\r\n
+[18:19:22.83] [RECV] 250-DMMAIL01.local.combera.com Hello [192.168.199.116]\r\n250-SIZE\r\n250-PIPELINING\r\n250-DSN\r\n250-ENHANCEDSTATUSCODES\r\n250-STARTTLS\r\n250-X-ANONYMOUSTLS\r\n250-AUTH NTLM LOGIN\r\n250-X-EXPS GSSAPI NTLM\r\n250-8BITMIME\r\n250-BINARYMIME\r\n250-CHUNKING\r\n250-XEXCH50\r\n250-XRDST\r\n250 XSHADOW\r\n
+[18:19:22.84] [INFO] SMTP Hello completed.
+[18:19:22.84] [INFO] Will send mail message to SMTP server "smtp.local.combera.com".
+[18:19:22.85] [INFO] Will submit sender and recipients.
+[18:19:22.85] [SEND] MAIL FROM:<firas.karam@combera.com>\r\n
+[18:19:22.85] [SEND] RCPT TO:<firas.karam@combera.com>\r\n
+[18:19:22.90] [RECV] 250 2.1.0 Sender OK\r\n
+[18:19:22.90] [RECV] 250 2.1.5 Recipient OK\r\n
+[18:19:22.91] [INFO] Sender and recipients accepted by SMTP server.
+[18:19:22.91] [INFO] Will send message data now.
+[18:19:22.91] [SEND] DATA\r\n
+[18:19:22.94] [RECV] 354 Start mail input; end with <CRLF>.<CRLF>\r\n
+[18:19:22.95] [SEND] MIME-Version: 1.0\r\nX-Mailer: MailBee.NET 11.0.0.569\r\nFrom: firas ... e: 6\r\n    Archive and Delete: 2\r\n    Delete without Archive: 0\r\n [Data chunk of 741 bytes sent.]
+[18:19:22.95] [SEND] \r\n.\r\n
+[18:19:23.43] [RECV] 250 2.6.0 <1.9239aff04a40ca403d5c@LT-5178> [InternalId=35946522] Queued mail for delivery\r\n
+[18:19:23.43] [INFO] Message successfully submitted to SMTP server.
+[18:19:23.43] [SEND] QUIT\r\n
+[18:19:23.46] [RECV] 221 2.0.0 Service closing transmission channel\r\n
+[18:19:23.46] [INFO] Will disconnect from host "smtp.local.combera.com".
+[18:19:23.47] [INFO] Disconnected from host "smtp.local.combera.com".
+[18:19:23.47] [INFO] Mail message sent.

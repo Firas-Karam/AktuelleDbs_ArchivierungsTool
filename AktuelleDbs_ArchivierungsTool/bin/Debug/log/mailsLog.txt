@@ -1,0 +1,610 @@
+Report vom: 29.01.2019 13:16:44
+From Server: (local)   From DB: Kunden_Android   From Schema: Adelholzener
+To Server:   (local)   To Db: Kunden_Archiv   To Schema: kunden
+Total Archived: 27
+    Success Archived: 14
+    Error Archived: 13 - 
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der abwesend_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_produkte_tempaaaaaaaaa_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_durchgang_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_fotos_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_produkte_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der bss_txt_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der hdb_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der import_log_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der optionen_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der spe_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der Tbl_Transfer_Protokoll_Archiv_Archiv-Tabelle mehrmals angegeben.
+Err: Spaltennamen müssen in jeder Tabelle eindeutig sein. Der Spaltenname "Archive_User" wurde in der tourenplanung_temp_Archiv_Archiv-Tabelle mehrmals angegeben.
+    Not Ready To Archive: 0 - 
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 27
+    Delete without Archive: 0
+ SendMail Status: True
+
+Report vom: 29.01.2019 14:46:28
+From Server: (local)   From DB: Kunden_Android   From Schema: Adelholzener
+To Server:   (local)   To Db: Kunden_Archiv   To Schema: kunden
+Total Archived: 3 Tables.
+    Success Archived: 0
+    Error Archived: 3  - 
+Err: Falsche Syntax in der Nähe von ".".
+Err: Falsche Syntax in der Nähe von ".".
+Err: Falsche Syntax in der Nähe von ".".
+    Not Ready To Archive: 0  - 
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 3
+    Delete without Archive: 0
+ SendMail Status: True
+
+Report vom: 30.01.2019 12:37:05
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+Total Archived: 86 Tables.
+    Success Archived: 1
+    Error Archived: 27  - 
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:0
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:21950
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:98
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:665
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:106398
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:13009
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:0
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:515
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:256
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:596
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:933
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:978
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:291
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:720685
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:40031
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:1097551
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:222
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:107
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:40033
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:5761
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:24045
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:57
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:241
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:9032
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:0
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:262435
+Step1: Done, Step2: Done, Step3: Done,Step4 Del:1487912
+    Not Ready To Archive: 0  - 
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 12:54:52
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+Total Archived: 86 Tables.
+    Success Archived: 1
+    Error Archived: 27  - 
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+Step3: Done,Step4 Del:0
+    Not Ready To Archive: 0  - 
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 12:58:37
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:09:49
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:19:04
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:48:37
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:50:52
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 28
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 27
+    Delete without Archive: 2
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:53:33
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 13:56:54
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 1  - 
+Err: Der Index und die Länge müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: length
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 14:01:58
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 27
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 14:10:48
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 28
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 27
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 14:39:31
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 3 Tables.
+    Success Archived: 3
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 2
+    Delete without Archive: 0
+ SendMail Status: True
+
+Report vom: 30.01.2019 14:59:14
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 5 Tables.
+    Success Archived: 3
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 2
+    Delete without Archive: 0
+ SendMail Status: True
+
+Report vom: 30.01.2019 15:03:06
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 1
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 15:39:06
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 3 Tables.
+    Success Archived: 3
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 2
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 30.01.2019 15:40:00
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 3 Tables.
+    Success Archived: 3
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 1
+    Archive and Delete: 1
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 10:35:22
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 86 Tables.
+    Success Archived: 86
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 86
+    Archive and Delete: 0
+    Delete without Archive: 0
+ SendMail Status: True
+
+Report vom: 31.01.2019 12:30:59
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 1
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 12:33:20
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 12:34:04
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 12:55:58
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 13:00:56
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 13:02:05
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 13:04:30
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 13:05:30
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Report vom: 31.01.2019 13:06:35
+From Server: (local)   From DB: Kunden_Test   From Schema: Std_Combera
+To Server:   (local)   To Db: Kunden_TestArchiv   To Schema: dbo
+
+Total Archived: 1 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 1
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 15:24:48
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 11 Tables.
+    Success Archived: 11
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 5
+    Archive and Delete: 6
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 15:51:41
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 2 Tables.
+    Success Archived: 2
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 2
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 15:54:34
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 0 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 15:54:37
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 0 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 15:55:54
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 0 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 16:00:30
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 6 Tables.
+    Success Archived: 0
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 0
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 12.02.2019 16:16:26
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 1 Tables.
+    Success Archived: 1
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 0
+    Archive and Delete: 1
+    Delete without Archive: 0
+ SendMail Status: True
+
+Archiv vom: 13.02.2019 18:19:23
+From Server: DMSQL02   From DB: Kunden_AndroidTest   From Schema: Std_Combera
+To Server:   DMSQL02   To Db: AktArchiv_STDCombera_Test   To Schema: Ka
+
+Total Archived: 8 Tables.
+    Success Archived: 8
+    Error Archived: 0  - 
+    Not Ready To Archive: 0  - 
+
+Archive Types ... 
+    Archive without Delete: 6
+    Archive and Delete: 2
+    Delete without Archive: 0
+ SendMail Status: True
+
